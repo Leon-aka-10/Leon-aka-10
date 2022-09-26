@@ -3,7 +3,7 @@
 ## I'm a Cloud DevOps Engineer
 
 - 🌱 I am currently en-route to Software Engineering
-- 👯 I’m looking to collaborate with other software Engineers on open source projects
+- 👯 I’m looking to collaborate with other Software Engineers on open source projects
 - 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I can do anything i set my mind to accomplish!
 
