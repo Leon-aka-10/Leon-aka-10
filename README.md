@@ -83,9 +83,11 @@ I’m open to collaborating on:
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/chukwubuikem-ekpe/)  
-[GitHub](https://github.com/Leon-aka-10)
+[<img align="left" alt="jobafash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[LinkedIn](https://www.linkedin.com/in/chukwubuikem-ekpe/)
 
 ---
 
 > *“Build systems that scale, automate everything possible, and never stop learning.”*
+
