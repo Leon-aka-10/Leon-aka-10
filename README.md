@@ -43,6 +43,7 @@ I’m a Cloud DevOps Engineer with hands-on experience designing, deploying, and
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
 - Oracle Cloud Infrastructure Certified DevOps Professional
+- ISO/IEC 27001:2022 Lead Auditor
  
 ---
 
